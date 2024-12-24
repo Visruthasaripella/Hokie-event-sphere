@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/hokie-event-sphere.iml" filepath="$PROJECT_DIR$/.idea/hokie-event-sphere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recommendation-system.main.iml" filepath="$PROJECT_DIR$/.idea/modules/recommendation-system.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recommendation-system.test.iml" filepath="$PROJECT_DIR$/.idea/modules/recommendation-system.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recommendationSystem/recommendationSystem.iml" filepath="$PROJECT_DIR$/recommendationSystem/recommendationSystem.iml" />
+    </modules>
+  </component>
+</project>
